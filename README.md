@@ -1,46 +1,45 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Hi%2C+I'm+Yuvrajsinh+Parmar!;React+Developer+at+Almighty+Infotech+%7C+Rajkot%2C+India;Frontend+Ninja+%7C+Anime+Fan+%7C+Biker+%7C+Gamer;Welcome+to+my+GitHub+Universe!+%F0%9F%8C%8D)
+# 👋 Hey there, I’m Yuvrajsinh Parmar  
+
+### 🖥️ Frontend Developer | 🎌 Anime Fan | 🎮 Gamer | 🏍️ Biker  
+
+I build beautiful, responsive UIs with a sprinkle of anime energy ⚡.  
+Currently working as a **Frontend Developer at Almighty Infotech, Rajkot (India)**.  
+When I’m not coding, you’ll find me watching anime, gaming, or cruising on my bike.  
 
 ---
 
-## 🚀 About Me
-
-👋 Hey there! I'm Yuvrajsinh Parmar, a passionate React developer crafting cool web experiences at **Almighty Infotech**, Rajkot, India.  
-I love building beautiful, user-friendly interfaces and exploring the latest in front-end tech!
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** HTML5, CSS3, JavaScript
-- **Styling:** Bootstrap 5, Tailwind CSS, Material UI
-- **Frameworks/Libraries:** ReactJS, Redux
-- **Version Control:** GitHub
+## 🚀 Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,materialui,react,redux,github" />
+</p>
 
 ---
 
-## 🎨 Interests
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevYuvrajsinhParmar&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevYuvrajsinhParmar&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
 
-- 🤩 Anime
-- 🎮 Gaming
-- 🏍️ Bikeriding
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DevYuvrajsinhParmar-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/devyuvrajsinhparmar)
-[![Twitter](https://img.shields.io/badge/Twitter-@yuvrajsinh2813-1da1f2?logo=twitter&style=for-the-badge)](https://x.com/yuvrajsinh2813)
-[![Instagram](https://img.shields.io/badge/Instagram-devyuvrajsinhparmar-e4405f?logo=instagram&style=for-the-badge)](https://www.instagram.com/devyuvrajsinhparmar/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevYuvrajsinhParmar&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
+</p>
 
 ---
 
-## 😄 Fun Fact
-
-I code by day, ride by night, and binge anime whenever I can!  
-Let’s connect and build something awesome together!
+## 🌸 A Little Extra
+> *“If you don’t take risks, you can’t create a future!”* – Monkey D. Luffy ☠️🏴‍☠️  
 
 ---
 
-<!--
-⭐️ Feel free to drop a star if you like what you see!
--->
+## 📬 Connect with Me
+<p align="center">
+  <a href="mailto:ypofficial2813@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/devyuvrajsinhparmar/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/devyuvrajsinhparmar/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/yuvrajsinh2813"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
+
+---
+
+⭐️ *“Code. Debug. Deploy. Repeat. (…and don’t forget anime breaks!)”*  
