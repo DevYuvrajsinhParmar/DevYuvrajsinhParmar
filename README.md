@@ -27,10 +27,6 @@ Outside of code, I’m either riding into the horizon on my bike, gaming, or div
 
 ---
 
-<p align="center"><i>"Power isn’t determined by your size, but by the size of your heart and dreams."</i> – Monkey D. Luffy (*One Piece*)</p>  
-
----
-
 ## 🌍 Connect With Me  
 
 <p align="center">
