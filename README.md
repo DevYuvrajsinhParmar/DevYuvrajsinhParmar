@@ -17,18 +17,6 @@ When I’m not coding, you’ll catch me leveling up in games or binge-watching 
 
 ---
 
-## 📊 GitHub Stats – *Like a Power Level Tracker* ⚔️  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevYuvrajsinhParmar&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevYuvrajsinhParmar&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevYuvrajsinhParmar&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
-</p>  
-
----
-
 ## ⚡ About Me – The Character Sheet  
 - 🎯 **Role**: Frontend Developer (React, MUI, Tailwind)  
 - 🎌 **Anime Energy**: One Piece 🏴‍☠️ | Demon Slayer ⚔️ | Jujutsu Kaisen 🔮 | Solo Leveling ⚡  
