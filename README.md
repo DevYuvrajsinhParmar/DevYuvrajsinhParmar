@@ -1,34 +1,37 @@
 <!-- Typing Animation Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Anime+Enthusiast;Adventure+Motorcyclist;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Anime+Enthusiast;Adventure+Motorcyclist;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-# 👋 Hey, I'm Yuvrajsinh Parmar  
+<h1 align="center">👋 Hey, I'm Yuvrajsinh Parmar</h1>
 
-💻 Frontend Developer at **Almighty Infotech, Rajkot (India)**  
-🎮 Gamer at heart • 🏍️ Adventure motorcyclist • 📺 Anime-powered learner  
-
----
-
-## ⚡ About Me  
-I craft clean, responsive, and user-friendly web experiences.  
-Currently focusing on the **React ecosystem** and building creative front-end projects.  
-Outside of code, I’m either riding into the horizon on my bike, gaming, or diving into a new anime arc.  
-
----
-
-## 🛠️ Tech Stack  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,git,github" />
+<p align="center">
+  🎮 Precision from gaming, 🏍️ persistence from riding, and 📺 creativity from anime —  
+  all shaping my journey as a Frontend Developer.
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevYuvrajsinhParmar&layout=compact&theme=tokyonight)  
+## ⚡ About Me  
+I’m a **Frontend Developer** focused on creating clean, responsive, and engaging user interfaces using **React** and modern web technologies.  
+Outside of coding, you’ll often find me **gaming**, **riding**, or getting inspired by the world of **anime**.
+  
 
 ---
 
-## 🌍 Connect With Me  
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,git,github,vscode" />
+</p>
 
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevYuvrajsinhParmar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/devyuvrajsinhparmar/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -46,9 +49,17 @@ Outside of code, I’m either riding into the horizon on my bike, gaming, or div
 
 ---
 
-<p align="center"><i>"If you don’t take risks, you can’t create a future."</i> – Monkey D. Luffy (*One Piece*)</p>
-
-<!-- Subtle Anime GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNkZjMxazY3c2xtbTN3N3ZydDNjaTZscTN4MTg4bTNuYmUzdHJ2bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C3brYLms1bhv2/giphy.gif" width="250"/>
+  <i>"If you don’t take risks, you can’t create a future."</i><br/>
+  — <b>Monkey D. Luffy</b> 🏴‍☠️
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="400" alt="Anime GIF"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevYuvrajsinhParmar&style=flat-square&color=00F7F7" alt="Profile Views"/>
 </p>
