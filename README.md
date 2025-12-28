@@ -1,19 +1,19 @@
 <!-- Typing Animation Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Anime+Enthusiast;Adventure+Motorcyclist;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-<h1 align="center">👋 Hey, I'm Yuvrajsinh Parmar</h1>
+<h1 align="center">👋 Hi, I'm Yuvrajsinh Parmar</h1>
 
 <p align="center">
-  🎮 Precision from gaming, 🏍️ persistence from riding, and 📺 creativity from anime —  
-  all shaping my journey as a Frontend Developer.
+  Frontend Developer crafting intuitive, responsive, and modern web experiences.
 </p>
 
 ---
 
 ## ⚡ About Me  
-I’m a **Frontend Developer** focused on creating clean, responsive, and engaging user interfaces using **React** and modern web technologies.  
-Outside of coding, you’ll often find me **gaming**, **riding**, or getting inspired by the world of **anime**.
-  
+I am a **Frontend Developer** with a strong focus on building clean, scalable, and user-centric interfaces using **React** and modern web technologies.  
+I value precision, consistency, and continuous learning—principles influenced by my interests in **gaming**, **motorcycling**, and **anime**.
+
+I enjoy transforming ideas into engaging digital experiences while continuously improving my skills and staying aligned with industry best practices.
 
 ---
 
@@ -37,7 +37,7 @@ Outside of coding, you’ll often find me **gaming**, **riding**, or getting ins
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/yuvrajsinh2813">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/devyuvrajsinhparmar/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
